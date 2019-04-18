@@ -1,0 +1,31 @@
+Script started on Thu 18 Apr 2019 04:40:04 PM PDT
+hadawad@cf164-05:~/csci241/lab-1-DawsonHadaway$ git conig[K[Kfig --globalu[K user.name "D awson Hadaway"
+hadawad@cf164-05:~/csci241/lab-1-DawsonHadaway$ git config --gloa[Kbal user.email d aws[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch adawad@wwu.edu
+hadawad@cf164-05:~/csci241/lab-1-DawsonHadaway$ touch writeup.txt
+hadawad@cf164-05:~/csci241/lab-1-DawsonHadaway$ git add wt[Kriteup.txt
+hadawad@cf164-05:~/csci241/lab-1-DawsonHadaway$ co[K[Kgit commit .t[K[K-m "adde[K[K[K[KAdded empty write up"
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Untracked files:
+	[31m.gradle/[m
+	[31mbuild/[m
+	[31mtypescript[m
+
+nothing added to commit but untracked files present
+hadawad@cf164-05:~/csci241/lab-1-DawsonHadaway$ git push origin master
+Username for 'https://github.com': DawsonHadaway
+Password for 'https://DawsonHadaway@github.com': 
+To https://github.com/CSCI241Spring2019/lab-1-DawsonHadaway.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/CSCI241Spring2019/lab-1-DawsonHadaway.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+hadawad@cf164-05:~/csci241/lab-1-DawsonHadaway$ exit
+exit
+
+Script done on Thu 18 Apr 2019 04:42:38 PM PDT
